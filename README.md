@@ -1,7 +1,7 @@
 ### Name:sharukesh.s
 ### Reg no: 212224220095
 
-### study-of-basic-gates
+### study of basic gates
 
 **AIM:** 
 
@@ -9,7 +9,7 @@ To study and verify the truth table of logic gates in Quartus II using Verilog p
 
 **Equipments Required:**
 
-Software – Quartus prime 
+Software Quartus prime 
 
 **Theory**
 
